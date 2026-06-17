@@ -1,2 +1,6 @@
-# SmartVaz_Irrigation_Sys
-I would like to share my junior-level developed Smart Irrigation system, which contributes to environmental sustainability in our country.
+<p align="center">
+  <img src="assets/cover.png" alt="SmartVaz Irrigation System" width="100%">
+</p>
+
+# 🌱 SmartVaz Irrigation System
+...
